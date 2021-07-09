@@ -9,8 +9,8 @@ grpc:
 
 endpoints:
   all:
-    port: 8085
-      sensitive: true
+   # port: 8085
+     # sensitive: true
   health:
     enable: true
     sensitive: false
